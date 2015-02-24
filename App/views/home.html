@@ -1,0 +1,35 @@
+﻿
+<style>
+    label {
+        width: 80px;
+        display: inline-block;
+        vertical-align: middle;
+    }
+
+    input {
+        width: 150px;
+        vertical-align: middle;
+    }
+
+    textarea {
+        width: 150px;
+        height: 100px;
+        vertical-align: middle;
+    }
+
+    .valueItems {
+        display: inline-block;
+        vertical-align: middle;
+    }
+</style>
+
+
+<div ng-controller="homeController">
+     <label for="post">Post:</label>
+    <textarea id="post" name="post" ng-model="post.message" required></textarea><br />
+        <br />
+        <button type="button" ng-click="postForm()">Post</button>
+    <br />
+    <br/>
+    <div id="dvpost" ng-repeat="post in tweet"><p>{{post}}</p></div>
+</div>

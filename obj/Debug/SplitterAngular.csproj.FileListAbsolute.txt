@@ -1,0 +1,5 @@
+c:\users\renz\documents\visual studio 2013\Projects\SplitterAngular\SplitterAngular\bin\SplitterAngular.dll.config
+c:\users\renz\documents\visual studio 2013\Projects\SplitterAngular\SplitterAngular\bin\SplitterAngular.dll
+c:\users\renz\documents\visual studio 2013\Projects\SplitterAngular\SplitterAngular\bin\SplitterAngular.pdb
+c:\users\renz\documents\visual studio 2013\Projects\SplitterAngular\SplitterAngular\obj\Debug\SplitterAngular.dll
+c:\users\renz\documents\visual studio 2013\Projects\SplitterAngular\SplitterAngular\obj\Debug\SplitterAngular.pdb
